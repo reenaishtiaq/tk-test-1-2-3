@@ -1,0 +1,76 @@
+.btn-1{
+    color: white;
+    background-color: #e24848;
+    font-size: 20px;
+    padding: 10px 20px;
+    
+}
+
+.btn-2{
+    color: #6b4dc7;
+    background-color: yellow;
+    border: 2px solid blue;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+
+.btn-2:hover{
+    color: #f0ce5b ;
+    background-color: #2a61fb;
+    border: 2px solid  #2a61fb;
+    padding: 10px 20px;
+    font-size: 20px;
+
+}
+
+.btn-3{
+    color: white;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 25px;
+
+    background-image: linear-gradient(to right,#5cd1d6, #9cd38d);
+
+
+}
+
+.btn-4{
+    background-color: white;
+    color: purple;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-color: purple;
+    border-radius: 20px;
+    height: 50px;
+    width: 120px;
+}
+.btn-4:hover{ 
+    background-color: #6749ea;
+    color:white;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-color: #6749ea;
+    border-radius: 20px;
+    height: 50px;
+    width: 120px;
+
+}
+
+.btn-5{
+    background-color: #f38d31;
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid yellow;
+    font-size: 20px;
+    border-radius: 15px;
+    height: 50px;
+    width: 150px;
+}
+
+.t-logo{
+    border-color: dodgerblue;
+    border: none;
+    padding:20px 50px;
+    font-size: 50px;
+    
+}
